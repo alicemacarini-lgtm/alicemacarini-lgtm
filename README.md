@@ -1,6 +1,3 @@
-#Aqui está a versão mantendo a estrutura exata, o tom mais formal, a paleta totalmente preta e adicionando mais kaomojis discretos e fofos para o estilo *cutecore*:
-
-```markdown
 # Sobre mim
 
 - >:3 Me chamo Alice (bunnybabyswag), sou estudante da Rede Estadual de Ensino do Paraná.
@@ -22,5 +19,3 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/K4f2goZ1s0EAAAAd/melanie-martinez-melanie-martinez-portals.gif" width="45%" alt="Melanie Martinez">
 </p>
-
-```
