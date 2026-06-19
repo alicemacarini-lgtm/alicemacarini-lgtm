@@ -1,4 +1,4 @@
-# Sobre mim
+# Sobre mim( ▔ ▔ )
 
 - >:3 Me chamo bunnybabyswag, sou estudante da Rede Estadual de Ensino do Paraná.
 - ( `,`• ᵕ •`,`) Tenho interesse em aprender novas linguagens de programação e aprimorar meu conhecimento na área.
