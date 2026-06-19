@@ -2,7 +2,7 @@
 
 - >:3 Me chamo bunnybabyswag, sou estudante da Rede Estadual de Ensino do Paraná.
 - ( `,`• ᵕ •`,`) Tenho interesse em aprender novas linguagens de programação e aprimorar meu conhecimento na área.
-- (✏️＿*( ° ▽ ° ) Nomeadamente, gosto de desenhar e ouvir música nas horas vagas, principalmente MPB e Rock.
+- (✏️＿*( ° ▽ ° ) Normalmente, gosto de desenhar e ouvir música nas horas vagas, principalmente MPB e Rock.
 - Atualmente cursando:
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
