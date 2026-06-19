@@ -1,6 +1,6 @@
 # Sobre mim
 
-- >:3 Me chamo Alice (bunnybabyswag), sou estudante da Rede Estadual de Ensino do Paraná.
+- >:3 Me chamo bunnybabyswag, sou estudante da Rede Estadual de Ensino do Paraná.
 - ( `,`• ᵕ •`,`) Tenho interesse em aprender novas linguagens de programação e aprimorar meu conhecimento na área.
 - (✏️＿*( ° ▽ ° ) Nomeadamente, gosto de desenhar e ouvir música nas horas vagas, principalmente MPB e Rock.
 - Atualmente cursando:
